@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Hollowmarch",
+      "path": "android-hollowmarch",
+      "framework": "kotlin"
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
